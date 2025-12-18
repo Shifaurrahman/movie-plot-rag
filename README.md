@@ -184,9 +184,7 @@ movie-plot-rag/
 └── wiki_movie_plots_deduped.csv  # Dataset (download separately)
 ```
 
-## 🎥 Video Walkthrough
 
-[Link to 2-minute Loom video]
 
 ## ⏱️ Performance
 
@@ -204,14 +202,3 @@ movie-plot-rag/
 
 **CSV Not Found**: Ensure the dataset path is correct
 
-## 📄 License
-
-MIT License - feel free to use and modify
-
-## 🤝 Contributing
-
-This is a take-home assignment implementation. Feedback welcome!
-
----
-
-Built with ❤️ for the RAG take-home challenge
